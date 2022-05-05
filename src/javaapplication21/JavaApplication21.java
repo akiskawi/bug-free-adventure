@@ -18,6 +18,9 @@ public class JavaApplication21 {
         System.out.println("Hello World Moth**F**ker!");
         System.out.println("Daphne kati ekana edw des to");
         System.out.println("Mas exei ***** re su Daphne kati ekana edw des to");
+        System.out.println("Mou ta ekane TSOUREKIA");
+        System.out.println("Gamo ton OTE sas kai gamo tis grammes sas!");
+        
         
     }
     
