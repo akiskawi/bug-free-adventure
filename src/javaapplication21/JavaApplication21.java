@@ -17,6 +17,8 @@ public class JavaApplication21 {
         // TODO code application logic here
         System.out.println("Hello World Moth**F**ker!");
         System.out.println("Daphne kati ekana edw des to");
+        System.out.println("Mas exei ***** re su Daphne kati ekana edw des to");
+        
     }
     
 }
